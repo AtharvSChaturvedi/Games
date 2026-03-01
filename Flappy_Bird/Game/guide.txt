@@ -1,0 +1,9 @@
+FLAPPY BIRD - THE GAME
+
+1.Press ENTER to start the game.
+
+2.Press ENTER(ik again) to save the bird from falling or colliding.
+
+3.Upon colliding press SPACE to restart.
+
+Enjoy the game ;)
