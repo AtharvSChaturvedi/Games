@@ -61,15 +61,6 @@ Combines a path cost (depth) with a heuristic that scores board positions based 
 
 ---
 
-## Project Structure
-
-```
-tictactoe.py   # Main game file — all logic, rendering, and AI in one script
-README.md
-```
-
----
-
 ## Controls
 
 | Action | Input |
